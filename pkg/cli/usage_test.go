@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/maxence-charriere/go-app/v10/pkg/errors"
+	"github.com/whale1017/go-app/v10/pkg/errors"
 )
 
 func TestCommandUsage(t *testing.T) {

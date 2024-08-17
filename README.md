@@ -5,10 +5,10 @@
 </h1>
 
 <p align="center">
-	<a href="https://github.com/maxence-charriere/go-app/actions"><img src="https://github.com/maxence-charriere/go-app/actions/workflows/build.yml/badge.svg?branch=master" alt="GitHub actions"></a>
-    <a href="https://goreportcard.com/report/github.com/maxence-charriere/go-app"><img src="https://goreportcard.com/badge/github.com/maxence-charriere/go-app" alt="Go Report Card"></a>
-	<a href="https://GitHub.com/maxence-charriere/go-app/releases/"><img src="https://img.shields.io/github/release/maxence-charriere/go-app.svg" alt="GitHub release"></a>
-	<a href="https://pkg.go.dev/github.com/maxence-charriere/go-app/v10/pkg/app"><img src="https://img.shields.io/badge/dev-reference-007d9c?logo=go&logoColor=white&style=flat" alt="pkg.go.dev docs"></a>
+	<a href="https://github.com/whale1017/go-app/actions"><img src="https://github.com/whale1017/go-app/actions/workflows/build.yml/badge.svg?branch=master" alt="GitHub actions"></a>
+    <a href="https://goreportcard.com/report/github.com/whale1017/go-app"><img src="https://goreportcard.com/badge/github.com/whale1017/go-app" alt="Go Report Card"></a>
+	<a href="https://github.com/whale1017/go-app/releases/"><img src="https://img.shields.io/github/release/maxence-charriere/go-app.svg" alt="GitHub release"></a>
+	<a href="https://pkg.go.dev/github.com/whale1017/go-app/v10/pkg/app"><img src="https://img.shields.io/badge/dev-reference-007d9c?logo=go&logoColor=white&style=flat" alt="pkg.go.dev docs"></a>
     <a href="https://twitter.com/jonhymaxoo"><img alt="Twitter URL" src="https://img.shields.io/badge/twitter-@jonhymaxoo-35A9F8?logo=twitter&style=flat"></a>
     <a href="https://opencollective.com/go-app" alt="Financial Contributors on Open Collective"><img src="https://opencollective.com/go-app/all/badge.svg?label=open+collective&color=4FB9F6" /></a>
 </p>
@@ -34,7 +34,7 @@ An app created with go-app can out of the box **runs in its own window**, **supp
 
 ```sh
 go mod init
-go get -u github.com/maxence-charriere/go-app/v10/pkg/app
+go get -u github.com/whale1017/go-app/v10/pkg/app
 ```
 
 ## Declarative syntax
@@ -112,11 +112,11 @@ func main() {
 
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
 
-<a href="https://github.com/maxence-charriere/go-app/graphs/contributors"><img src="https://opencollective.com/go-app/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/whale1017/go-app/graphs/contributors"><img src="https://opencollective.com/go-app/contributors.svg?width=890&button=false" /></a>
 
 ### Financial Contributors
 
-Become a financial contributor and help us sustain [go-app](https://github.com/maxence-charriere/go-app) development. [[Contribute](https://opencollective.com/go-app/contribute)]
+Become a financial contributor and help us sustain [go-app](https://github.com/whale1017/go-app) development. [[Contribute](https://opencollective.com/go-app/contribute)]
 
 #### Individuals
 

@@ -6,7 +6,7 @@ package app
 import (
 	"runtime"
 
-	"github.com/maxence-charriere/go-app/v10/pkg/errors"
+	"github.com/whale1017/go-app/v10/pkg/errors"
 )
 
 func GenerateStaticWebsite(dir string, h *Handler, pages ...string) error {

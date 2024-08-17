@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/maxence-charriere/go-app/v10/pkg/errors"
+	"github.com/whale1017/go-app/v10/pkg/errors"
 )
 
 // Composer defines a contract for creating custom, independent, and reusable

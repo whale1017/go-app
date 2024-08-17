@@ -1,6 +1,6 @@
 ## Intro
 
-Go-app.dev is a website that provides documentation to use the [go-app](https://github.com/maxence-charriere/go-app) open-source package.
+Go-app.dev is a website that provides documentation to use the [go-app](https://github.com/whale1017/go-app) open-source package.
 
 This page is used to inform website visitors regarding Go-app.dev policies with the collection, use, and disclosure of Personal Information.
 

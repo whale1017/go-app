@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"github.com/maxence-charriere/go-app/v10/pkg/errors"
+	"github.com/whale1017/go-app/v10/pkg/errors"
 )
 
 // State represents a state with additional features such as expiration,

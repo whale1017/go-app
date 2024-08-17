@@ -5,8 +5,8 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/maxence-charriere/go-app/v10/pkg/logs"
 	"github.com/stretchr/testify/require"
+	"github.com/whale1017/go-app/v10/pkg/logs"
 )
 
 func TestTestMatch(t *testing.T) {

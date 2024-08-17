@@ -3,7 +3,7 @@ package main
 import (
 	"strings"
 
-	"github.com/maxence-charriere/go-app/v10/pkg/app"
+	"github.com/whale1017/go-app/v10/pkg/app"
 )
 
 type indexLink struct {

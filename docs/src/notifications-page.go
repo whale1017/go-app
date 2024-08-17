@@ -7,9 +7,9 @@ import (
 	"math/rand"
 	"net/http"
 
-	"github.com/maxence-charriere/go-app/v10/pkg/analytics"
-	"github.com/maxence-charriere/go-app/v10/pkg/app"
-	"github.com/maxence-charriere/go-app/v10/pkg/errors"
+	"github.com/whale1017/go-app/v10/pkg/analytics"
+	"github.com/whale1017/go-app/v10/pkg/app"
+	"github.com/whale1017/go-app/v10/pkg/errors"
 )
 
 type notificationsPage struct {

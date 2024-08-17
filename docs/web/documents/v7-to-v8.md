@@ -10,7 +10,7 @@ Replace `v7` imports by `v8`.
 
 ```go
 import (
-	"github.com/maxence-charriere/go-app/v9/pkg/app"
+	"github.com/whale1017/go-app/v9/pkg/app"
 )
 ```
 
@@ -25,7 +25,7 @@ Here is how it is done for the hello example:
 
 package main
 
-import "github.com/maxence-charriere/go-app/v7/pkg/app"
+import "github.com/whale1017/go-app/v7/pkg/app"
 
 func main() {
 	app.Route("/", &hello{})
@@ -45,7 +45,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/maxence-charriere/go-app/v7/pkg/app"
+	"github.com/whale1017/go-app/v7/pkg/app"
 )
 
 func main() {
@@ -70,7 +70,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/maxence-charriere/go-app/v9/pkg/app"
+	"github.com/whale1017/go-app/v9/pkg/app"
 )
 
 func main() {

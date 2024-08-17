@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/maxence-charriere/go-app/v10/pkg/errors"
 	"github.com/stretchr/testify/require"
+	"github.com/whale1017/go-app/v10/pkg/errors"
 )
 
 func init() {

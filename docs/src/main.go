@@ -11,13 +11,12 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/SherClockHolmes/webpush-go"
-	"github.com/maxence-charriere/go-app/v10/pkg/analytics"
-	"github.com/maxence-charriere/go-app/v10/pkg/app"
-	"github.com/maxence-charriere/go-app/v10/pkg/cli"
-	"github.com/maxence-charriere/go-app/v10/pkg/errors"
-	"github.com/maxence-charriere/go-app/v10/pkg/logs"
-	"github.com/maxence-charriere/go-app/v10/pkg/ui"
+	"github.com/whale1017/go-app/v10/pkg/analytics"
+	"github.com/whale1017/go-app/v10/pkg/app"
+	"github.com/whale1017/go-app/v10/pkg/cli"
+	"github.com/whale1017/go-app/v10/pkg/errors"
+	"github.com/whale1017/go-app/v10/pkg/logs"
+	"github.com/whale1017/go-app/v10/pkg/ui"
 )
 
 const (
@@ -27,7 +26,7 @@ const (
 
 	buyMeACoffeeURL     = "https://www.buymeacoffee.com/maxence"
 	openCollectiveURL   = "https://opencollective.com/go-app"
-	githubURL           = "https://github.com/maxence-charriere/go-app"
+	githubURL           = "https://github.com/whale1017/go-app"
 	githubSponsorURL    = "https://github.com/sponsors/maxence-charriere"
 	twitterURL          = "https://twitter.com/jonhymaxoo"
 	coinbaseBusinessURL = "https://commerce.coinbase.com/checkout/851320a4-35b5-41f1-897b-74dd5ee207ae"

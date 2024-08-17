@@ -12,11 +12,11 @@ If you are interested in doing so, here is a couple of suggestions in order to k
 
 Thank you so much to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
 
-<a href="https://github.com/maxence-charriere/go-app/graphs/contributors"><img src="https://opencollective.com/go-app/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/whale1017/go-app/graphs/contributors"><img src="https://opencollective.com/go-app/contributors.svg?width=890&button=false" /></a>
 
 ## Financial Contributors
 
-Become a financial contributor and help us sustain [go-app](https://github.com/maxence-charriere/go-app) development. [[Contribute](https://opencollective.com/go-app/contribute)]
+Become a financial contributor and help us sustain [go-app](https://github.com/whale1017/go-app) development. [[Contribute](https://opencollective.com/go-app/contribute)]
 
 ### Individuals
 
