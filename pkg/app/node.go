@@ -384,6 +384,22 @@ func (m nodeManager) updateText(v, new *text) (UI, error) {
 	return v, nil
 }
 
+func min(a, b int) int {
+	if a > b {
+		return b
+	} else {
+		return a
+	}
+}
+
+func max(a, b int) int {
+	if a > b {
+		return a
+	} else {
+		return b
+	}
+}
+
 func (m nodeManager) updateHTML(ctx Context, v, new HTML) (UI, error) {
 	attrs := v.attrs()
 	newAttrs := new.attrs()
